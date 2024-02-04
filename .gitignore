@@ -55,3 +55,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Packages
+BuildFolder/
+Assets/TextMesh Pro/

@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DevAccountEmail: adkat80@gmail.com
   DevAccountToken: nhx8uckqicssdemdoexaoj4qmm5g8puz9gw4h55187o917uqtq3ao9sac1dkhow389ersjbzrdyfdk47jd8gm3cetsctgdabgngkcfp9sesggiz51oqm9nt5spp8eyriy19coodfkijprp544gq8qe5izhifx47n7s5ja689az3p8ur1mooqrfyezjnw6uqifchhc37g
-  SelectedStudio: 
-  SdkPath: 
+  SelectedStudio: My Game Studio
+  SdkPath: Assets/PlayFabSDK
   EdExPath: 
   LocalCloudScriptPath: 
-  PanelIsShown: 1
+  PanelIsShown: 0
   curMainMenuIdx: 0
   curSubMenuIdx: 0
